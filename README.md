@@ -1,0 +1,2 @@
+# univ_HP_update_notice
+大学のHPが更新されたことを通知するプログラム
