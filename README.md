@@ -1,6 +1,7 @@
 # yamagata_univ_hp_notify_1.1.py 
 
 山形大学のホームページに新着記事があった際にそれを通知するPythonプログラムです。Windowsの場合、このプログラムを動かすbatプログラムをタスクスケジューラで定期的に起動することを想定しています。
+使用法については[こちら(Qiita)](https://qiita.com/ceedarr/items/7bf4909df5a74090c30a)でも説明しています。
 
 ## プログラムの流れ
 1. 入力されたurlの実行時点でのhtmlデータをrequestsにより取得し必要な情報をDataFrameに格納
