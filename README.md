@@ -30,4 +30,4 @@ run()
 if __name__ == "__main__"内のyamagata_univ.run()で実行しています。
 
 ## activate_yamagata_univ_hp_notify.batを使用する方法
-C:\Users\Public\env311\Scripts\python.exeで実行する前提のプログラムですが、venv環境が無い・使わない場合は"call C:\Users\Public\env311\Scripts\activate.bat"を削除してください。
+C:\Users\Public\env311\Scripts\python.exeで実行する前提のプログラムですが、venv環境が無い・使わない場合は"call C:\Users\Public\env311\Scripts\activate.bat"を変更してください。
